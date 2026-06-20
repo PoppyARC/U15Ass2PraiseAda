@@ -1,0 +1,26 @@
+.feature-card {
+
+    min-height: 250px;
+    border-radius: 15px;
+    transition: 0.3s;
+
+}
+
+
+
+.feature-card:hover {
+
+    transform: translateY(-10px);
+
+}
+
+
+
+.feature-card h1 {
+
+    font-size: 50px;
+
+}
+body{
+    background-color: black;
+}
