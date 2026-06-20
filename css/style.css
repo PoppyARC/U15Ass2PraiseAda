@@ -1,0 +1,15 @@
+body{
+  background-image: url(../Media/Background_image.jpg);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-style: bold;
+    font-family: Arial, sans-serif;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    color: aliceblue;
+}
