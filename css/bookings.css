@@ -1,0 +1,45 @@
+body{
+    background-image: url(../Media/4k_bookings2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.booking-card {
+
+    border-radius: 15px;
+    overflow: hidden;
+
+}
+
+
+.booking-img {
+
+    height: 250px;
+    object-fit: cover;
+
+}
+
+
+
+.form-control,
+.form-select {
+
+    background-color: #222;
+    border: none;
+    color: white;
+
+}
+
+
+.form-control::placeholder {
+
+    color: #aaa;
+
+}
+
+
+
+.btn-outline-danger:hover {
+
+    background-color: #dc3545;
+
+}
