@@ -1,6 +1,7 @@
-body{
-    background-color: black;
+html, body {
+    background-color: black !important;
 }
+
 .card {
     border-radius: 20px;
 }
